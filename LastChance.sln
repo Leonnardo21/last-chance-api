@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastChance", "LastChance.csproj", "{8EBA527E-ED8F-4E0E-A58A-A0348182941F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBA527E-ED8F-4E0E-A58A-A0348182941F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBA527E-ED8F-4E0E-A58A-A0348182941F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBA527E-ED8F-4E0E-A58A-A0348182941F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBA527E-ED8F-4E0E-A58A-A0348182941F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2588F0-811C-42E4-BDF4-0A5FF3935B5F}
+	EndGlobalSection
+EndGlobal
